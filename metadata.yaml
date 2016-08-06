@@ -1,0 +1,44 @@
+_repo: A-Publisher-and-His-FriendsAccount-of-the-Origin-and-Progress-of-the-House-1768-1843_10884
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Murray, John
+    birthdate: 1778
+    deathdate: 1843
+    gutenberg_agent_id: '40296'
+    url: http://www.gutenberg.org/2009/agents/40296
+creator:
+  author:
+    agent_name: Smiles, Samuel
+    birthdate: 1812
+    deathdate: 1904
+    gutenberg_agent_id: '224'
+    url: http://www.gutenberg.org/2009/agents/224
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+  editor:
+    agent_name: Mackay, Thomas
+    alias: Mackay, T. (Thomas)
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '40428'
+    url: http://www.gutenberg.org/2009/agents/40428
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'John Murray (Firm)'
+- !lcc 'Z'
+- !lcsh 'Publishers and publishing -- Great Britain -- Biography'
+- !lcsh 'Publishers and publishing -- Great Britain -- Correspondence'
+- !lcsh 'Publishers and publishing -- Great Britain -- History -- 19th century'
+- !lcsh 'Murray, John, 1778-1843'
+- GITenberg
+title: "A Publisher and His Friends\r\nMemoir and Correspondence of John Murray; with\
+  \ an Account of the Origin and Progress of the House, 1768-1843"
+url: http://www.gutenberg.org/ebooks/10884

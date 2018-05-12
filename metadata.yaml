@@ -1,5 +1,5 @@
 _repo: A-Publisher-and-His-FriendsAccount-of-the-Origin-and-Progress-of-the-House-1768-1843_10884
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Murray, John
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1843
     gutenberg_agent_id: '40296'
     url: http://www.gutenberg.org/2009/agents/40296
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smiles, Samuel
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '40428'
     url: http://www.gutenberg.org/2009/agents/40428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10884#A-Publisher-and-His-FriendsAccount-of-the-Origin-and-Progress-of-the-House-1768-1843
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
